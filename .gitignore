@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.egg-info/
+dist/
+
+# Node
+node_modules/
+build/
+dist/
+.env.local
+
+# Uploads (user files — don't commit)
+backend/uploads/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
